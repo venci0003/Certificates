@@ -22,6 +22,9 @@ All of my certificates that I've obtained throughout the years!
 - [Certificate Preview](https://github.com/venci0003/Certificates/files/12601289/42d8879d-bd32-4c40-82c3-743bf49f6e62.pdf)
 ### Introduction to C#
 - [Certificate Preview](https://github.com/venci0003/Certificates/files/12601306/711309b4-19b7-41c5-af1a-9cd70d4d04e1.pdf)
+### Introduction to SQL
+- [Certificate Preview](https://github.com/venci0003/Certificates/files/12775362/d5ffa8c9-d019-431b-8ad5-6baf151f3862.pdf)
+
 
 
 
