@@ -24,6 +24,9 @@ All of my certificates that I've obtained throughout the years!
 - [Certificate Preview](https://github.com/venci0003/Certificates/files/12601306/711309b4-19b7-41c5-af1a-9cd70d4d04e1.pdf)
 ### Introduction to SQL
 - [Certificate Preview](https://github.com/venci0003/Certificates/files/12775362/d5ffa8c9-d019-431b-8ad5-6baf151f3862.pdf)
+### SQL Intermediate
+- [Certificate Preview](https://github.com/venci0003/Certificates/files/12861511/3fc236bc-b0c6-44d0-a3dc-49ee5f274a39.pdf)
+
 
 
 
