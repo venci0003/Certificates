@@ -15,6 +15,9 @@ All of my certificates that I've obtained throughout the years!
 - [Certificate Preview](https://github.com/venci0003/Certificates/files/12601251/HTML.CSS.-.January.2023.-.Certificate.pdf)
 ### JS Front-End - February 2023
 - [Certificate Preview](https://github.com/venci0003/Certificates/files/12601266/JS.Front-End.-.February.2023.-.Certificate.pdf)
+### MS SQL - September 2023
+- [Certificate Preview](https://github.com/venci0003/Certificates/files/12921223/MS.SQL.-.September.2023.-.Certificate.pdf)
+
 
 ## Sololearn Certificates
 
